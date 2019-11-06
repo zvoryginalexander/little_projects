@@ -1,7 +1,5 @@
-** you enter the room**
-
-** you see the sign **
-
-**Mum! Don't come into my room! I'm programming!**
-
-** you leave the room **
+# My projects
+### Plans:
+- Re-write and upload encoder on Pythorch
+- Solve NFL Data Bowl Kaggle competition and add to this repo
+- Finish LSTM data generation project
